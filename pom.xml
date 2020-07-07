@@ -12,7 +12,7 @@
 	<artifactId>images-verifier</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>images-verifier</name>
-	<description>Mentory project</description>
+	<description>Learning project</description>
 
 	<properties>
 		<java.version>11</java.version>
