@@ -1,1 +1,1 @@
-"# safe-class" 
+# safe-class
